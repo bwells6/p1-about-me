@@ -1,5 +1,6 @@
 body{
-background: aqua;
+background: green;
+
 }
 	
 p {
@@ -7,7 +8,9 @@ p {
 }
 
 a {
-	color: yellow;
-	font-size: 32px;
+	color: red;
+	font-size: 50px;
 	text-decoration: none;
 }
+
+img {width:300px;}
